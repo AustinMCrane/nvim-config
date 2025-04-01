@@ -6,14 +6,4 @@ return {
   {
     'github/copilot.vim',
   },
-  {
-    'ThePrimeagen/harpoon',
-  },
-  {
-    'ruifm/gitlinker.nvim',
-    requires = 'nvim-lua/plenary.nvim',
-  },
-  {
-    'nvim-tree/nvim-tree.lua',
-  },
 }
